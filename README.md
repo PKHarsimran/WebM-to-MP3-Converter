@@ -9,8 +9,8 @@ This repository hosts a powerful and efficient Bash script that is designed to c
 
 ## Usage
 
-1.Save the script **convert_webm_to_mp3.sh** in your directory containing the WebM files.
-2.Make the script executable: **chmod +x convert_webm_to_mp3.sh**.
-3.Run the script: **./convert_webm_to_mp3.sh**.
+1. Save the script **convert_webm_to_mp3.sh** in your directory containing the WebM files.
+2. Make the script executable: **chmod +x convert_webm_to_mp3.sh**.
+3. Run the script: **./convert_webm_to_mp3.sh**.
 
 Please note, this script requires **ffmpeg with libmp3lame** support installed on your system.
